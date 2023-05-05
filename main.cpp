@@ -1,6 +1,5 @@
 #include <CL/opencl.hpp>
 
-#include <algorithm>
 #include <fstream>
 #include <iostream>
 #include <sstream>
